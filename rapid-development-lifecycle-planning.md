@@ -36,9 +36,9 @@ Adapted from McConnell, S. (1996). Rapid development: Taming wild software sched
 
 Adapted from McConnell, S. (1996). Rapid development: Taming wild software schedules.
 
-To choose the most effective lifecycle for your project, examine your project and answer several questions. That lets you choose a model that...
+To choose the most effective lifecycle, first examine your project and answer several questions; then then choose a model that...
 
-### Works with poorly understood requirements.
+### Works with poorly understood requirements
 
 - Q: How well do my customer and I understand the requirements at the beginning of the project? 
 - Q: Is our understanding likely to change as we move through the project?
@@ -46,35 +46,35 @@ To choose the most effective lifecycle for your project, examine your project an
 - or when your customer is prone to change requirements. 
 - These models work well with exploratory software development.
 
-### Works with poorly understood architecture.
+### Works with poorly understood architecture
 
 - Q: How well do I understand the system architecture? 
 - Q: Am I likely to need to make major architectural changes midway through the project?
 - These models work well when you're developing a new application area;
 - or when you're developing in a familiar application area but are developing unfamiliar capabilities.
 
-### Produces a highly reliable system.
+### Produces a highly reliable system
 
 - Q: How much reliability do I need?
 - These models tend to produce a system with minimal defects when put into production.
 
-### Produces a system with a large growth envelope.
+### Produces a system with a large growth envelope
 
 - Q: How much do I need to plan ahead and design ahead during this project for future versions?
 - These models let us modify the system in size and diversity over its lifetime; 
 - this includes modifying the system in ways that the original developers did not anticipate.
 
-### Manages risks.
+### Manages risks
 
 - Q: How much risk does this project entail? 
 - These models help identify and control schedule risk, product risk, and other risks.
 
-### Can be constrained to a predefined schedule.
+### Can be constrained to a predefined schedule
 
 - Q: Am I constrained to a predefined schedule? 
 - These models support delivery of software by an immovable drop-dead date.
 
-### Has Low Overhead
+### Has low overhead
 
 - Q: How much time and toil do I need to use this lifecycle model successfully? 
 - Using these models require less management and technical overhead for effective use. 
@@ -88,18 +88,18 @@ To choose the most effective lifecycle for your project, examine your project an
 - That includes the skills to track progress, avoid risks inherent in the model, avoid wasting time using the model,
 - basically, to realize the benefits that lead you to use the model in the first place.
 
-### Allows for midcourse corrections.
+### Allows for midcourse corrections
 
 - Q: Do I need to be able to make midcourse corrections? 
 - These models support changing significant aspects of the product midway through the development cycle; 
 - this does not include changing the product's basic mission but does include extending it.
 
-### Provides customers with progress visibility.
+### Provides customers with progress visibility
 
 - Do I need to provide my customers with visible progress throughout the project? 
 - These models automatically generate signs of progress that the customer can use to track the project status.
 
-### Provides management with progress visibility.
+### Provides management with progress visibility
 
 - Do I Need to provide management with visible progress throughout the project?  
 - These models automatically generate signs of progress that management can use to track the project status.
