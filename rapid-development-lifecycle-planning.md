@@ -6,7 +6,9 @@ Quoted from Big Ball of Mud http://laputan.org/mud/
 > Kent Beck has observed that the way to build software is to: Make it work. Make it right. Make it fast [Beck 1997].
 > 
 > "Make it work" means that we should focus on functionality up-front, and get something running.
+> 
 > "Make it right" means that we should concern ourselves with how to structure the system only after we’ve figured out the pieces we need to solve the problem in the first place.
+> 
 > "Make it fast" means that we should be concerned about optimizing performance only after we’ve learned how to solve the problem, and after we’ve discerned an architecture to elegantly encompass this functionality.
 > 
 > Once all this has been done, one can consider how to make it cheap.
