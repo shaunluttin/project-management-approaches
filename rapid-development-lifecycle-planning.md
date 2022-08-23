@@ -1,7 +1,21 @@
 
-Adapted from McConnell, S. (1996). Rapid development: Taming wild software schedules.
+# Introduction
+
+Quoted from Big Ball of Mud http://laputan.org/mud/
+
+> Kent Beck has observed that the way to build software is to: Make it work. Make it right. Make it fast [Beck 1997].
+> 
+> "Make it work" means that we should focus on functionality up-front, and get something running.
+> "Make it right" means that we should concern ourselves with how to structure the system only after we’ve figured out the pieces we need to solve the problem in the first place.
+> "Make it fast" means that we should be concerned about optimizing performance only after we’ve learned how to solve the problem, and after we’ve discerned an architecture to elegantly encompass this functionality.
+> 
+> Once all this has been done, one can consider how to make it cheap.
+
+Maybe at the end of the presentation series we can answer, "What software lifecycle model does that fit? What about a Minimum Viable Product? What lifecycle does that fit?"
 
 # The Lifecycle Model Menu
+
+Adapted from McConnell, S. (1996). Rapid development: Taming wild software schedules.
 
 * Pure Waterfall
 * Code-and-Fix
@@ -17,6 +31,8 @@ Adapted from McConnell, S. (1996). Rapid development: Taming wild software sched
 ^ Rapid Development considers these four to be Best Practices.
 
 # Choosing the Most Rapid Lifecycle for Your Project
+
+Adapted from McConnell, S. (1996). Rapid development: Taming wild software schedules.
 
 To choose the most effective lifecycle for your project, examine your project and answer several questions:
 
