@@ -1,6 +1,21 @@
 
 Adapted from McConnell, S. (1996). Rapid development: Taming wild software schedules.
 
+# The Lifecycle Model Menu
+
+* Pure Waterfall
+* Code-and-Fix
+* Spiral^
+* Modified Waterfalls
+* Evolutionary Prototyping^
+* Staged Delivery^
+* Evolutionary Delivery^
+* Design-to-Schedule
+* Design-to-Tools
+* Commercial Off-the-Shelf Software
+
+^ Rapid Development considers these three Best Practices.
+
 # Choosing the Most Rapid Lifecycle for Your Project
 
 To choose the most effective lifecycle for your project, examine your project and answer several questions:
@@ -61,19 +76,4 @@ Provides management with progress visibility.
 - These models automatically generate signs of progress that management can use to track the project status.
 
 > In general, the more closely you can stick to a linear, waterfall-like approach - and do it effectively - the more rapid your development will be... often it's safer to choose an approach that's more flexible.
-
-# The Lifecycle Model Menu
-
-Pure Waterfall
-Code-and-Fix
-Spiral^
-Modified Waterfalls
-Evolutionary Prototyping^
-Staged Delivery^
-Evolutionary Delivery^
-Design-to-Schedule
-Design-to-Tools
-Commercial Off-the-Shelf Software
-
-^ Rapid Development considers these three Best Practices.
 
