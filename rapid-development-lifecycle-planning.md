@@ -75,5 +75,7 @@ Provides management with progress visibility.
 - Do I Need to provide management with visible progress throughout the project?  
 - These models automatically generate signs of progress that management can use to track the project status.
 
+Based on the answers to those questions, we can choose a more rapid Lifecycle Model for our project.
+
 > In general, the more closely you can stick to a linear, waterfall-like approach - and do it effectively - the more rapid your development will be... often it's safer to choose an approach that's more flexible.
 
