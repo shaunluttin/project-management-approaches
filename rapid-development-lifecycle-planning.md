@@ -14,7 +14,7 @@ Adapted from McConnell, S. (1996). Rapid development: Taming wild software sched
 * Design-to-Tools
 * Commercial Off-the-Shelf Software
 
-^ Rapid Development considers these three Best Practices.
+^ Rapid Development considers these four to be Best Practices.
 
 # Choosing the Most Rapid Lifecycle for Your Project
 
