@@ -7,9 +7,9 @@ Quoted from Big Ball of Mud http://laputan.org/mud/
 > 
 > "Make it work" means that we should focus on functionality up-front, and get something running.
 > 
-> "Make it right" means that we should concern ourselves with how to structure the system only after we’ve figured out the pieces we need to solve the problem in the first place.
+> "Make it right" means that we should concern ourselves with how to structure the system only after weâ€™ve figured out the pieces we need to solve the problem in the first place.
 > 
-> "Make it fast" means that we should be concerned about optimizing performance only after we’ve learned how to solve the problem, and after we’ve discerned an architecture to elegantly encompass this functionality.
+> "Make it fast" means that we should be concerned about optimizing performance only after weâ€™ve learned how to solve the problem, and after weâ€™ve discerned an architecture to elegantly encompass this functionality.
 > 
 > Once all this has been done, one can consider how to make it cheap.
 
@@ -29,6 +29,7 @@ Adapted from McConnell, S. (1996). Rapid development: Taming wild software sched
 * Design-to-Schedule
 * Design-to-Tools
 * Commercial Off-the-Shelf Software
+* Throwaway Prototyping^
 
 ^ Rapid Development considers these four to be Best Practices.
 
