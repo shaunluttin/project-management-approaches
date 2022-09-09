@@ -33,7 +33,7 @@ Adapted from McConnell, S. (1996).
 * Commercial Off-the-Shelf Software
 * Throwaway Prototyping^
 
-^ Rapid Development considers these four to be Best Practices.
+^ Rapid Development (McConnel, 1996) considers these four to be Best Practices.
 
 # Choosing the Most Rapid Lifecycle for Your Project
 
