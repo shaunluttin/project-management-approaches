@@ -11,9 +11,9 @@ People learning chess tend to go through those same stages. People learning soft
 
 Lifecycles are to software how strategy is to chess.
 
-![image](https://user-images.githubusercontent.com/2066637/189397773-305e104c-b450-4a9e-9ea4-1aa288bd1b12.png)
-
 Carlsen has reached New Dynamism.
+
+![image](https://user-images.githubusercontent.com/2066637/189397773-305e104c-b450-4a9e-9ea4-1aa288bd1b12.png)
 
 # The Lifecycle Model Menu
 
