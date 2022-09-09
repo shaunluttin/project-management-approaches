@@ -4,6 +4,10 @@ The development of chess went through several phases:
 
 1. Romantic
 2. Scientific
+  - Tactics
+  - Endgames
+  - Openings
+  - Strategy
 3. Post-Modern
 4. New Dynamism
 
