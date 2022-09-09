@@ -7,7 +7,7 @@ The development of chess went through several phases:
 3. **Post-Modern**
 4. **New Dynamism**
 
-People learning chess tend to go through those same stages. People learning software do too.
+People learning chess (and software) tend to go through simmilar stages.
 
 Lifecycles are to software how strategy is to chess.
 
