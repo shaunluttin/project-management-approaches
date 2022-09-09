@@ -9,15 +9,17 @@ The development of chess went through several phases:
 
 People learning chess (and software) tend to go through simmilar stages.
 
-Lifecycles are to software how strategy is to chess.
+Strategy is to chess how **lifecycle models** are to software.
 
-Carlsen has reached New Dynamism.
+> For our purproses, the main function of a lifecycle model is to establish the order in which a project specifies, prototypes, designs, implements, reviews, tests, and performs other activities. (McConnell, 1996)
+
+Magnus Carlsen has reached New Dynamism.
 
 ![image](https://user-images.githubusercontent.com/2066637/189397773-305e104c-b450-4a9e-9ea4-1aa288bd1b12.png)
 
 # The Lifecycle Model Menu
 
-Adapted from McConnell, S. (1996). Rapid development: Taming wild software schedules.
+Adapted from McConnell, S. (1996).
 
 * Pure Waterfall
 * Code-and-Fix
@@ -35,7 +37,7 @@ Adapted from McConnell, S. (1996). Rapid development: Taming wild software sched
 
 # Choosing the Most Rapid Lifecycle for Your Project
 
-Adapted from McConnell, S. (1996). Rapid development: Taming wild software schedules.
+Adapted from McConnell, S. (1996).
 
 To choose the most effective lifecycle, first examine your project and answer several questions; then then choose a model that...
 
@@ -108,3 +110,7 @@ To choose the most effective lifecycle, first examine your project and answer se
 Based on the answers to the questions, we can choose a Lifecycle Model that provides the most rapid approach for our project.
 
 > In general, the more closely you can stick to a linear, waterfall-like approach - and do it effectively - the more rapid your development will be... often it's safer to choose an approach that's more flexible.
+
+# Bibliograph 
+
+McConnell, S. (1996). _Rapid development: Taming wild software schedules._
