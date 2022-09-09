@@ -7,11 +7,13 @@ The development of chess went through several phases:
 3. **Post-Modern**
 4. **New Dynamism**
 
-People learning chess tend to go through those same stages. 
+People learning chess tend to go through those same stages. People learning software do too.
 
-Carlsen has reached New Dynamism.
+Lifecycles are to software how strategy is to chess.
 
 ![image](https://user-images.githubusercontent.com/2066637/189397773-305e104c-b450-4a9e-9ea4-1aa288bd1b12.png)
+
+Carlsen has reached New Dynamism.
 
 # The Lifecycle Model Menu
 
