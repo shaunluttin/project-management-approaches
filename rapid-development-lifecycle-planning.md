@@ -1,5 +1,17 @@
-![image](https://user-images.githubusercontent.com/2066637/189397773-305e104c-b450-4a9e-9ea4-1aa288bd1b12.png)
+# Introduction
 
+The development of chess went through several phases: 
+
+1. Romantic
+2. Scientific
+3. Post-Modern
+4. New Dynamism
+
+People learning chess tend to go through those same stages. 
+
+Carlsen has reached New Dynamism.
+
+![image](https://user-images.githubusercontent.com/2066637/189397773-305e104c-b450-4a9e-9ea4-1aa288bd1b12.png)
 
 # The Lifecycle Model Menu
 
