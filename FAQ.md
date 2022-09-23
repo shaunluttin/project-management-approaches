@@ -47,3 +47,5 @@ It can have an unfortunate result if it lands with the customer as a finished pr
 Yes. :smile: And that works just fine when we frame the result as a prototype.
 
 Yes. :cry: It tends to work out poorly, though, if we frame the result as a long-term, finished product. (edited) 
+
+The takeaway is that "code-and-fix" makes sense early in product development stage to get rapid feedback from stakeholders, clarify requirements, visualize functionality, etc. But this only make sense if the result of this work is thrown away. It should not be worked on long term and made into the final product.
