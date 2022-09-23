@@ -9,7 +9,7 @@ The throwaway prototype is something that we build.
 
 ### Q: Does code-and-fix produce prototypes effectively?
 
-Yes.
+Yes. So long as we commit to throwing away the prototype, code-and-fix makes total sense for building the prototype rapidly.
 
 ### Q: How does this differ as a strategy for a lifecycle instead of a build strategry?
 
