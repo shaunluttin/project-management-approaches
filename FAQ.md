@@ -13,7 +13,10 @@ Yes.
 
 ### Q: How does this differ as a strategy for a lifecycle instead of a build strategry?
 
-Hmm. Good question.
+As a best practice, a developer might use code-and-fix to play with a technology, prototype something, clarify requirements, create a proof-of-concept.
+
+As a classic mistake, a software team might use a code-and-fix approach to immediate start long-term work toward a vaguely defined goal.
+
 
 ### Q: Does 'code-and-fix' result ever make in the hands of the customer? By contrast, 'throwaway prototype' does not seem to ever make it to the customer, while a result of 'code-and-fix' may. Is that right?
 
