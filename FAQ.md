@@ -1,12 +1,21 @@
 # FAQ
 
-Q: How does this differ from throwaway prototype?
+### Q: How does code-and-fix differ from throwaway prototype?
 
-Q: Does this produce prototypes effectively?
+The code-and-fix is an approach to building something.
 
-Q: How does this differ as a strategy for a lifecycle instead of a build strategry?
+The throwaway prototype is something that we build.
 
-Q: Does 'code-and-fix' result ever make in the hands of the customer? By contrast, 'throwaway prototype' does not seem to ever make it to the customer, while a result of 'code-and-fix' may. Is that right?
+
+### Q: Does code-and-fix produce prototypes effectively?
+
+Yes.
+
+### Q: How does this differ as a strategy for a lifecycle instead of a build strategry?
+
+Hmm. Good question.
+
+### Q: Does 'code-and-fix' result ever make in the hands of the customer? By contrast, 'throwaway prototype' does not seem to ever make it to the customer, while a result of 'code-and-fix' may. Is that right?
 
 Rapid Development suggests that code-and-fix ought to land in the hands of the customer only as a throwaway prototype or a proof of concept. "Here is what we're thinking of building; does that look right to you? If so, we can get started today!" (edited) 
 
