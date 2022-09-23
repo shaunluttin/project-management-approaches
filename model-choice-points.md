@@ -1,4 +1,4 @@
-Lifecyle Model Choice Points
+# Lifecyle Model Choice Points
 
 * Works with poorly understood requirements
 * Works with poorly understood architecture
