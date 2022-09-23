@@ -16,14 +16,14 @@ How does it work?
 
 Advantages?
 
-- Has low overhead
-- Requires little manager or developer sophistication
+- Has low overhead ✅
+- Requires little manager or developer sophistication ✅
 
 Disadvantages?
 
-- Provides customers with progress visibility
-- Provides management with progress visibility
-- Manages risks
+- Provides customers with progress visibility ❌
+- Provides management with progress visibility ❌
+- Manages risks ❌
 
 When to use? 
 
