@@ -20,21 +20,20 @@ As a classic mistake, a software team might use a code-and-fix approach to immed
 
 ### Q: Does 'code-and-fix' result ever make in the hands of the customer? By contrast, 'throwaway prototype' does not seem to ever make it to the customer, while a result of 'code-and-fix' may. Is that right?
 
-Rapid Development suggests that code-and-fix ought to land in the hands of the customer only as a throwaway prototype or a proof of concept. "Here is what we're thinking of building; does that look right to you? If so, we can get started today!" (edited) 
+Rapid Development suggests that code-and-fix ought to land in the hands of the customer only as a throwaway prototype or a proof of concept. "Here is what we're thinking of building; does that look right to you? If so, we can get started today!" 
 
 Think of it this way...
 
-If you want to produce a throwaway prototype, then use the code-and-fix strategy to build it.
-
-If you want to produce something with longevity, then do not use a code-and-fix strategy to build it.
+* If you want to produce a throwaway prototype, then use the code-and-fix strategy to build it.
+* If you want to produce something with longevity, then do not use a code-and-fix strategy to build it.
 
 Based on that:
 
 > Does 'code-and-fix' result ever make in the hands of the customer?
 
-Yes. :smile: As a throwaway prototype or proof-of-concept it makes sense to share it with the customer.
+Yes. As a throwaway prototype or proof-of-concept it makes sense to share it with the customer. :smile:
 
-Yes. :cry: As a finished product, teams make the classic mistake of delivering with a code-and-fix approach.
+Yes. As a finished product, teams make the classic mistake of delivering with a code-and-fix approach. :cry: 
 
 > By contrast, 'throwaway prototype' does not seem to ever make it to the customer
 
@@ -44,8 +43,8 @@ It can have an unfortunate result if it lands with the customer as a finished pr
 
 > while a result of 'code-and-fix' may.
 
-Yes. :smile: And that works just fine when we frame the result as a prototype.
+Yes.And that works just fine when we frame the result as a prototype. :smile: 
 
-Yes. :cry: It tends to work out poorly, though, if we frame the result as a long-term, finished product. (edited) 
+Yes. It tends to work out poorly, though, if we frame the result as a long-term, finished product. :cry: 
 
 The takeaway is that "code-and-fix" makes sense early in product development stage to get rapid feedback from stakeholders, clarify requirements, visualize functionality, etc. But this only make sense if the result of this work is thrown away. It should not be worked on long term and made into the final product.
