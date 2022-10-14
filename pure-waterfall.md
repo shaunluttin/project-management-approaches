@@ -14,7 +14,7 @@
     - Endgame Plans
 
 Put another way, 
-- if you start on a trip with a plan to walk,
+- If you start on a trip with a plan to walk,
 - and midway through you decide to drive, 
 - you can no longer usefully rely on guidance around walking.
 
