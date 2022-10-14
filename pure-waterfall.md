@@ -49,3 +49,7 @@ Put another way,
 - Well understood complex projects.
 - Quality requirements dominate costs and schedule constraints.
 - Technically weak staff.
+
+![image](https://user-images.githubusercontent.com/2066637/195893459-c189ac86-fa94-41b7-a45b-75238d5e81fd.png)
+
+![image](https://user-images.githubusercontent.com/2066637/195893521-33a69b98-f7c6-4a6f-876b-7660a36d6227.png)
