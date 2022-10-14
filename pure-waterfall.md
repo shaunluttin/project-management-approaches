@@ -18,6 +18,9 @@ Put another way,
 - and midway through you decide to drive, 
 - you can no longer usefully rely on guidance around walking.
 
+![image](https://user-images.githubusercontent.com/2066637/195893826-440a36bd-5162-45d9-97bf-0574124359f5.png)
+
+
 ### How does it work? 
 
 - Orderly sequence of steps from concept to testing.
@@ -49,7 +52,3 @@ Put another way,
 - Well understood complex projects.
 - Quality requirements dominate costs and schedule constraints.
 - Technically weak staff.
-
-![image](https://user-images.githubusercontent.com/2066637/195893459-c189ac86-fa94-41b7-a45b-75238d5e81fd.png)
-
-![image](https://user-images.githubusercontent.com/2066637/195893521-33a69b98-f7c6-4a6f-876b-7660a36d6227.png)
