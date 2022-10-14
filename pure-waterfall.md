@@ -8,10 +8,10 @@ Introduction
 - In that case, you are no longer playing the Sicilian.
 - Why does this matter? Semantics, right? 
 - When you go off book, the gameplan changes significantly.
-- Risks
-- Traps
-- Advantages
-- Endgame Plans
+    - Risks
+    - Traps
+    - Advantages
+    - Endgame Plans
 
 Put another way, if you start on a trip with a plan to walk,
 and midway through you decide to drive, you can no longer usefully
