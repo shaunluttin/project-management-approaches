@@ -18,6 +18,9 @@ Put another way,
 - and midway through you decide to drive, 
 - you can no longer usefully rely on guidance around walking.
 
+![image](https://user-images.githubusercontent.com/2066637/195893826-440a36bd-5162-45d9-97bf-0574124359f5.png)
+
+
 ### How does it work? 
 
 - Orderly sequence of steps from concept to testing.
