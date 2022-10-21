@@ -25,14 +25,14 @@ Put another way,
 - Document driven: documents carry work from one phase to another.
 - Phases do not overlap.
 
-# Advantages?
+### Advantages?
 
 - Find errors early.
 - Requirement stablility that (some) developers crave.
 - Minimizes planning overhead; perform all planning upfront.
 - Documentation provides meaningful progress visibility.
 
-# Disadvantages?
+### Disadvantages?
 
 - No tangible results until end of project.
 - Lack of flexibility:
@@ -42,7 +42,7 @@ Put another way,
     - Allowed to swim upstream. :-/
 - Excessive documentation.
 
-# When to use? 
+### When to use? 
 
 - Stable product definition.
 - Well-understood technical methodolgies.
