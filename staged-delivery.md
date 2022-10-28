@@ -15,6 +15,16 @@
 
 Feature Creep
 
+## Characteristics
+
+* Visibile Progress
+* Shorter Cycles
+* Early Warning
+* Less Overhead
+* Increased Options
+* Reduced Estimation Error
+* Reduced Integration Problems
+
 ## How does it work?
 
 Waterfall phase:
