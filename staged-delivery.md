@@ -23,7 +23,7 @@ Waterfall phase:
 1. Requirements Analysis
 1. Architectural Design
 
-Staged delivery phase:
+Staged delivery starts here!
 
 Plan a series of deliverables...
 
@@ -38,9 +38,10 @@ Guidlines:
 - First stage delivers the germ of the product. 
 - Last stage completes the project.
 - Planning the first stage requires the most architectural insight.
-- You may "deliver" early stages internally.
-- E.g., aid integration / QA / progress tracking...
-- Each stage must end with a truly releasable product.
+- You may "deliver" early stages internally to aid integration / QA / progress tracking...
+- Each stage ends with a truly releasable product.
+- Caution with technical dependency planning.
+- Themed releases help reduce feature-by-feature negotiations.
 
 ## Advantages?
 
@@ -71,3 +72,8 @@ Guidlines:
     - :-(
 
 ## When to use?
+
+* Well understood projects.
+* Very large projects.
+* Customers will accept incremental releases.
+* Possible to design incremental releases.
