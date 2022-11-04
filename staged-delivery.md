@@ -1,5 +1,7 @@
 # Staged Delivery
 
+> DRAFT
+
 ## Introduction
 
 - Delivery/ship in stages.
@@ -8,8 +10,8 @@
 - Does reduce risks and increase progress visibility.
 - Requires careful upfront planning.
 - You must know exactly what you're going to build when you set out.
-   - similar here to waterfall.
-   - dissimilar here to evolutionary prototyping
+  - similar here to waterfall.
+  - dissimilar here to evolutionary prototyping
 
 ## Risks
 
@@ -17,13 +19,13 @@ Feature Creep
 
 ## Characteristics
 
-* Visibile Progress
-* Shorter Cycles
-* Early Warning
-* Less Overhead
-* Increased Options
-* Reduced Estimation Error
-* Reduced Integration Problems
+- Visibile Progress
+- Shorter Cycles
+- Early Warning
+- Less Overhead
+- Increased Options
+- Reduced Estimation Error
+- Reduced Integration Problems
 
 ## How does it work?
 
@@ -45,7 +47,7 @@ Plan a series of deliverables...
 Guidlines:
 
 - Each stage has a _delivery date._
-- First stage delivers the germ of the product. 
+- First stage delivers the germ of the product.
 - Last stage completes the project.
 - Planning the first stage requires the most architectural insight.
 - You may "deliver" early stages internally to aid integration / QA / progress tracking...
@@ -76,14 +78,14 @@ Guidlines:
 - Understanding what stages customers find meaningful.
 - Distribute work to engineers to complete work by the stage deadline.
 - Needs to account for technical dependencies among stages.
-    - Classic mistake:
-    - Plan a feature for delivery in stage 2,
-    - that feature relies on feature from stage 4.
-    - :-(
+  - Classic mistake:
+  - Plan a feature for delivery in stage 2,
+  - that feature relies on feature from stage 4.
+  - :-(
 
 ## When to use?
 
-* Well understood projects.
-* Very large projects.
-* Customers will accept incremental releases.
-* Possible to design incremental releases.
+- Well understood projects.
+- Very large projects.
+- Customers will accept incremental releases.
+- Possible to design incremental releases.
