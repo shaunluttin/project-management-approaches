@@ -1,4 +1,8 @@
-# Staged Delivery
+# Staged Delivery (Best Practice)
+
+> If Chess is our metaphore, 
+> and if our team + customer is Carleson,
+> who is our opponent?
 
 ## Introduction
 
