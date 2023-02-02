@@ -2,7 +2,7 @@
 
 ![Spiral Model Diagram](./spiral.png)
 
-Overview
+## Overview
 
 - risk-oriented
 - breaks projects into miniprojects
@@ -10,7 +10,7 @@ Overview
 - iterates (repeats) until having addressed all major risks
 - terminates as a water lifecycle model would
 
-Defines risk broadly
+## Defines risk broadly
 
 - poorly understood requirements
 - poorly understood architecture
@@ -18,7 +18,7 @@ Defines risk broadly
 - potential problems in underlying tech
 - etc
 
-Cinnamon Roll starts Small in the Middle
+## Cinnamon Roll starts Small in Middle
 
 - explore the risks
 - make a plan to handle the risks
@@ -26,7 +26,7 @@ Cinnamon Roll starts Small in the Middle
 - each iteration scales up the project
 - roll up one layer, check it against requirements, move to the next layer.
 
-Iterations / Layers
+# Iterations / Layers
 
 1. Determine objectives, alternatives, contraints
 2. Identify and resolve risks.
@@ -35,28 +35,28 @@ Iterations / Layers
 5. Plan the next iteration.
 6. Commit to an approach for the next iteration. 
 
-As Costs Increase Risk Decreases
+# As Costs Increase Risk Decreases
 
 > One of the most important advantages of the spiral model is that as 
 > costs increase risk decreases. The more time and money you spend, the
 > less risk your taking, which is exactly what you want on a rapid-development
 > project.
 
-Flexibility
+# Flexibility
 
 - you can have as many loops as necessary
 - you can bounce around the six steps (though that order often helps)
 - you can tailor each iteration to suit the project
 - you can combine it with other lifecycle models
 
-Combinations
+# Combinations
 
 - begin with a series of risk-reduction iterations
 - conclude with a waterfall or evolutionary delivery model
 - incorporate other lifecycle models as interations
 - e.g., throwaway prototying as a performance interation
 
-Management Control
+# Management Control
 
 - provides high levels
 - at least as much as the traditional waterfall model
@@ -64,13 +64,13 @@ Management Control
 - you have early indications of insurmountable risks
 - you find out early at the least possible cost
 
-Disadvantage
+# Disadvantage
 
 - complicated
 - requires conscientious, attentive, and knowledge management
 - difficult to define objective, verifiable milestones
 - avoid this model with low-risk product development
 
-Main Advantages
+# Main Advantages
 - progress visibility
 - reduced risk
