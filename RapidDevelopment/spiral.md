@@ -18,13 +18,12 @@ Defines risk broadly
 - potential problems in underlying tech
 - etc
 
-Cinnamon Roll
+Cinnamon Roll starts Small in the Middle
 
-- start on a small scale in the middle
 - explore the risks
 - make a plan to handle the risks
 - commit to an approach for the next iteration
-- each iteration moves the project to a larger scale
+- each iteration scales up the project
 - roll up one layer, check it against requirements, move to the next layer.
 
 Iterations / Layers
@@ -32,17 +31,17 @@ Iterations / Layers
 1. Determine objectives, alternatives, contraints
 2. Identify and resolve risks.
 3. Evaluate alternatives.
-4. Develop deliverables for that interation; verify their correctness.
+4. Develop deliverables for that interation; verify correctness.
 5. Plan the next iteration.
 6. Commit to an approach for the next iteration. 
 
 Cost Savings
 
-- early iterations are the cheapest
-- you spend less developing the _concept_ of the operation,
-- ...than you do developing the requirements.
-- ...and less developing the requirements,
-- ...than you do developing the design, implementing it, testing it.
+> One of the most important advantages of the spiral model is that as 
+> costs increase risk decreases. The more time and money you spend, the
+> less risk your taking, which is exactly what you want on a rapid-development
+> project.
+
 
 Flexibility
 
@@ -57,11 +56,6 @@ Combinations
 - conclude with a waterfall or evolutionary delivery model
 - incorporate other lifecycle models as interations
 - e.g., throwaway prototying as a performance interation
-
-> One of the most important advantages of the spiral model is that as 
-> costs increase risk decreases. The more time and money you spend, the
-> less risk your taking, which is exactly what you want on a rapid-development
-> project.
 
 Management Control
 
