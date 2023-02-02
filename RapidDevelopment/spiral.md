@@ -10,9 +10,8 @@ Overview
 - iterates (repeats) until having addressed all major risks
 - terminates as a water lifecycle model would
 
-Risk
+Defines risk broadly
 
-- defines risk broadly
 - poorly understood requirements
 - poorly understood architecture
 - potential performance problems
