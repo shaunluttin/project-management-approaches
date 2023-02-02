@@ -35,13 +35,12 @@ Iterations / Layers
 5. Plan the next iteration.
 6. Commit to an approach for the next iteration. 
 
-Cost Savings
+As Costs Increase Risk Decreases
 
 > One of the most important advantages of the spiral model is that as 
 > costs increase risk decreases. The more time and money you spend, the
 > less risk your taking, which is exactly what you want on a rapid-development
 > project.
-
 
 Flexibility
 
