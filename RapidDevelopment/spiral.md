@@ -1,5 +1,5 @@
 
-[Spiral Model Diagram](/spiral.png)
+![Spiral Model Diagram](./spiral.png)
 
 Overview
 
